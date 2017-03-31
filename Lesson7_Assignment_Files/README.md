@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(03, 31, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(John Forrester)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment asks students to edit an html page and enable jquery functions that allow drop-down panels.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://john-forrester.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to properly install a drop-down style macro on my webpage using jquery)
+2. (I learned how to trigger events queued by jquery simply based on mouse hovering)
+3. (I learned how to manipulates these functions specifically for whatever purpose I desire. I can even change the colors of the menu by hovering)
